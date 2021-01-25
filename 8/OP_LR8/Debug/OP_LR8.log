@@ -1,0 +1,19 @@
+﻿  txtProcessing.cpp
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr8_almost\OP_LR8\txtProcessing.cpp(35,17): warning C4018: '<': signed/unsigned mismatch
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr8_almost\OP_LR8\txtProcessing.cpp(63,12): warning C4018: '<=': signed/unsigned mismatch
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr8_almost\OP_LR8\txtProcessing.cpp(84,12): warning C4018: '<': signed/unsigned mismatch
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr8_almost\OP_LR8\txtProcessing.cpp(96,13): warning C4018: '<': signed/unsigned mismatch
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr8_almost\OP_LR8\txtProcessing.cpp(97,39): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=fpos_t
+          ]
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr8_almost\OP_LR8\txtProcessing.cpp(99,23): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=fpos_t
+          ]
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr8_almost\OP_LR8\txtProcessing.cpp(117,25): warning C4018: '<': signed/unsigned mismatch
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr8_almost\OP_LR8\txtProcessing.cpp(121,31): warning C4244: 'argument': conversion from 'fpos_t' to 'size_t', possible loss of data
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr8_almost\OP_LR8\txtProcessing.cpp(122,13): warning C4018: '>=': signed/unsigned mismatch
+  OP_LR8.vcxproj -> D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr8_almost\OP_LR8\Debug\OP_LR8.exe

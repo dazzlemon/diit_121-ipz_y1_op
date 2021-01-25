@@ -1,0 +1,19 @@
+/*for (int k = 0; k < n; k++) {//k - #of row being sorted
+			bool sorted = false;
+			for (int i = 0; !sorted && (i < (m - 1)); i++) {//i - #of iteration
+				bool sorted = true;
+				for (int j = 0; j < (m - i - 1); j++) {
+					if (items[(k * m) + j] > items[(k * m) + j + 1]) {//j - #of fisrt number from pair being compared
+
+						float temp;
+						temp = items[(k * m) + j];
+						items[(k * m) + j] = items[(k * m)  + j + 1];
+						items[(k * m) + j + 1] = temp;
+
+						sorted = false;
+					}
+				}
+			}//bubblesort
+			//sort items from [k*m] to [(k+1)*m - 1]
+			//done
+		}*/

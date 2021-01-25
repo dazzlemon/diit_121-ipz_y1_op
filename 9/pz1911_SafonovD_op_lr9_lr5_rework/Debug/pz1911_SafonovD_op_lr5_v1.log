@@ -1,0 +1,7 @@
+﻿  SE_DB.cpp
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr9\pz1911_SafonovD_op_lr9_lr5_rework\SE_DB.cpp(25,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr9\pz1911_SafonovD_op_lr9_lr5_rework\SE_DB.cpp(39,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr9\pz1911_SafonovD_op_lr9_lr5_rework\SE_DB.cpp(54,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr9\pz1911_SafonovD_op_lr9_lr5_rework\SE_DB.cpp(78,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr9\pz1911_SafonovD_op_lr9_lr5_rework\SE_DB.cpp(138,37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pz1911_SafonovD_op_lr5_v1.vcxproj -> D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr9\pz1911_SafonovD_op_lr9_lr5_rework\Debug\pz1911_SafonovD_op_lr5_v1.exe

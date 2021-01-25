@@ -1,0 +1,5 @@
+﻿  pz1911_SafonovD_op_lr3_dowhile.cpp
+D:\1uno1\diit\WIP\pz1911_SafonovD_op_lr3\pz1911_SafonovD_op_lr3_dowhile\pz1911_SafonovD_op_lr3_dowhile.cpp(84,8): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\1uno1\diit\WIP\pz1911_SafonovD_op_lr3\pz1911_SafonovD_op_lr3_dowhile\pz1911_SafonovD_op_lr3_dowhile.cpp(89,8): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+D:\1uno1\diit\WIP\pz1911_SafonovD_op_lr3\pz1911_SafonovD_op_lr3_dowhile\pz1911_SafonovD_op_lr3_dowhile.cpp(93,8): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  pz1911_SafonovD_op_lr3_dowhile.vcxproj -> D:\1uno1\diit\WIP\pz1911_SafonovD_op_lr3\pz1911_SafonovD_op_lr3_dowhile\Debug\pz1911_SafonovD_op_lr3_dowhile.exe

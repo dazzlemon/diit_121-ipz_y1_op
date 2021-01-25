@@ -1,0 +1,14 @@
+﻿  algorithm_comparison.cpp
+D:\1uno1\diit\Done\pz1911_SafonovD_op_lr4\algorithm_comparison\algorithm_comparison.cpp(106,35): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned long', possible loss of data
+D:\1uno1\diit\Done\pz1911_SafonovD_op_lr4\algorithm_comparison\algorithm_comparison.cpp(106,35): warning C4244:         with
+D:\1uno1\diit\Done\pz1911_SafonovD_op_lr4\algorithm_comparison\algorithm_comparison.cpp(106,35): warning C4244:         [
+D:\1uno1\diit\Done\pz1911_SafonovD_op_lr4\algorithm_comparison\algorithm_comparison.cpp(106,35): warning C4244:             _Rep=__int64
+D:\1uno1\diit\Done\pz1911_SafonovD_op_lr4\algorithm_comparison\algorithm_comparison.cpp(106,35): warning C4244:         ]
+D:\1uno1\diit\Done\pz1911_SafonovD_op_lr4\algorithm_comparison\algorithm_comparison.cpp(107,7): warning C4215: nonstandard extension used: long float
+D:\1uno1\diit\Done\pz1911_SafonovD_op_lr4\algorithm_comparison\algorithm_comparison.cpp(127,35): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned long', possible loss of data
+D:\1uno1\diit\Done\pz1911_SafonovD_op_lr4\algorithm_comparison\algorithm_comparison.cpp(127,35): warning C4244:         with
+D:\1uno1\diit\Done\pz1911_SafonovD_op_lr4\algorithm_comparison\algorithm_comparison.cpp(127,35): warning C4244:         [
+D:\1uno1\diit\Done\pz1911_SafonovD_op_lr4\algorithm_comparison\algorithm_comparison.cpp(127,35): warning C4244:             _Rep=__int64
+D:\1uno1\diit\Done\pz1911_SafonovD_op_lr4\algorithm_comparison\algorithm_comparison.cpp(127,35): warning C4244:         ]
+D:\1uno1\diit\Done\pz1911_SafonovD_op_lr4\algorithm_comparison\algorithm_comparison.cpp(128,7): warning C4215: nonstandard extension used: long float
+  algorithm_comparison.vcxproj -> D:\1uno1\diit\Done\pz1911_SafonovD_op_lr4\algorithm_comparison\Debug\algorithm_comparison.exe

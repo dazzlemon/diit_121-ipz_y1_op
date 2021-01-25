@@ -1,0 +1,5 @@
+﻿  infixParser.cpp
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr11\BigInt\infixParser.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr11\BigInt\infixParser.cpp(105,23): warning C4018: '<': signed/unsigned mismatch
+D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr11\BigInt\infixParser.cpp(156,23): warning C4018: '<': signed/unsigned mismatch
+  BigInt.vcxproj -> D:\1uno1\diit\year1\year1_semester2\WIP\OP_Lr11\BigInt\Debug\BigInt.exe
